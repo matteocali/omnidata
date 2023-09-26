@@ -5,6 +5,7 @@ __pycache__
 /conda
 /dist
 /omnidata_tools.egg-info
+/pretrained_models
 *.ckpt
 *.pth
 
